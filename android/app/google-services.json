@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "613501521329",
+    "firebase_url": "https://strat-banking-demo.firebaseio.com",
+    "project_id": "strat-banking-demo",
+    "storage_bucket": "strat-banking-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613501521329:android:381415b730ed70a8040190",
+        "android_client_info": {
+          "package_name": "com.example.flutter_base"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613501521329-vjhv90nlbil269rke2ligjmpt0kvt7j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfXTOl3Bgw-sYnDXjmczCNvnPRXMwxSdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613501521329-vjhv90nlbil269rke2ligjmpt0kvt7j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
